@@ -1,3 +1,3 @@
 # resume
 Sharing my resume
-(http://hesamkorki.github.io/resume)[It's hosted here]
+[It's hosted here](http://hesamkorki.github.io/resume)
